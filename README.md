@@ -21,5 +21,4 @@ This project aims to:
 - Dashbord interaction <a href="https://github.com/Rachy143/World-Disaster-Data-Analytics/blob/main/WDDA.jpg">View Dashboard<a/>
 
 ## Dashboard
-<img width="1895" height="844" alt="WORLD DISASTER DASHBOARD" src="![WDDA](https://github.com/user-attachments/assets/eaac2679-bb62-41c0-a956-121e05274379)
-" />
+<img width="1895" height="844" alt="WORLD DISASTER DASHBOARD" src="https://github.com/Rachy143/World-Disaster-Data-Analytics/blob/main/WDDA.jpg" />
