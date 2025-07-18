@@ -22,3 +22,6 @@ This project aims to:
 
 ## Dashboard
 <img width="1895" height="844" alt="WORLD DISASTER DASHBOARD" src="https://github.com/Rachy143/World-Disaster-Data-Analytics/blob/main/WDDA.jpg" />
+
+## CONCLUSION
+This Power BI dashboard provides an insightful and interactive analysis of global disasters over the past decades, highlighting trends, regional impacts, and affected populations. By leveraging dynamic visuals, slicers, and KPIs, the report helps users explore patterns and gain deeper understanding of disaster events globally.
