@@ -18,4 +18,4 @@ This project aims to:
 - Help identify which countries and regions are most affected.
 - Show the economic and human impact of different disaster types.
 
-- Dashbord interaction <a href="https://github.com/Rachy143/CAFE-SALES-DATA-ANALYSIS-USING-EXCEL/blob/main/CAFE%20DASHBOARD.png">View Dashboard<a/>
+- Dashbord interaction <a href="https://github.com/Rachy143/World-Disaster-Data-Analytics/blob/main/WDDA.jpg">View Dashboard<a/>
