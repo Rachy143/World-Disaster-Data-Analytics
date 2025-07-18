@@ -10,3 +10,12 @@ This project is a Power BI dashboard that analyzes global disaster events from 2
   - Total Deaths  
   - Total Economic Damage (USD)  
   - Disaster Events Percentage (%) 
+
+## Insights & Goals
+
+This project aims to:
+- Reveal the scale and trends of global disasters.
+- Help identify which countries and regions are most affected.
+- Show the economic and human impact of different disaster types.
+
+- Dashbord interaction <a href="https://github.com/Rachy143/CAFE-SALES-DATA-ANALYSIS-USING-EXCEL/blob/main/CAFE%20DASHBOARD.png">View Dashboard<a/>
