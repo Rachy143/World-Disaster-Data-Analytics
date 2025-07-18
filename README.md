@@ -1,7 +1,7 @@
 # World-Disaster-Data-Analytics
 This project is a Power BI dashboard that analyzes global disaster events from 2000 to 2025. It provides insights into the frequency, and distribution of disasters across countries and continents using interactive visuals.
 
-##Dataset used
+## Dataset used
 - <a href="https://github.com/Rachy143/World-Disaster-Data-Analytics/tree/main">Dataset</a>
 
 ## KPIs:  
@@ -19,3 +19,6 @@ This project aims to:
 - Show the economic and human impact of different disaster types.
 
 - Dashbord interaction <a href="https://github.com/Rachy143/World-Disaster-Data-Analytics/blob/main/WDDA.jpg">View Dashboard<a/>
+
+## Dashboard
+<img width="1895" height="844" alt="WORLD DISASTER DASHBOARD" src="https://github.com/user-attachments/assets/94f19b5e-88e2-4542-b185-7210d92b665a" />
