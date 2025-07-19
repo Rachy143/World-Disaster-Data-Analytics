@@ -9,7 +9,10 @@ This project is a Power BI dashboard that analyzes global disaster events from 2
   - Total Affected Population  
   - Total Deaths  
   - Total Economic Damage (USD)  
-  - Disaster Events Percentage (%) 
+  - Disaster Events Percentage (%)
+
+## Process
+In this project, I analyzed global disaster data to uncover patterns, trends, and relationships across different disaster types, regions, and time periods. Before importing the dataset into Power BI, I used Excel to enrich the data by extracting continent information from a separate dataset and integrating it using lookup functions. This allowed for more insightful analysis in Power BI, enabling comparisons of disaster impact across continents and highlighting regional disparities.
 
 ## Insights & Goals
 
